@@ -1,6 +1,5 @@
 # Python Kickstarter
-
-License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Python Kickstart Online Course Material © 2026 by Dr. Alexander Britz is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Description
 This course was designed by Dr. Alexander Britz (hereafter named AB, email address mail@alexbritz.de) in 2024. After first tests and integrations in several course format, the course content is made available in collaboration with ProRUWA and Uni Kassel as open educational resource under a License CC BY-SA 4.0.

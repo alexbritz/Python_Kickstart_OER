@@ -1,0 +1,8 @@
+Create a Jupyter (= iPython) Notebook and Solve these Problems:
+a) Create an integer and a floating point variable.
+b) Multiply both variables from a) with each other and assign the result to a new variable. Which types is this new variable? Use the type() function.
+c) Create a string variable. Check how many characters the string variable has using the len() function Multiply this string variable by 5. What do you get?
+d) Create a list which should be filled with 10 elements of mixed types.
+e) Access the fifth element of the list and check its type.
+f) Access the last three elements of the list. BONUS: Can you access all elements with even indices?
+g) BONUS: Use the dir() command to check which methods are available for objects of type list. Test three different methods!

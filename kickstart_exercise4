@@ -1,0 +1,7 @@
+a) Create a numpy array with x-values from -10 to 10 and a step size that you like. Use this array with x-values to create y-values of the polynomial y = 2*x**3 + 2.3*x -5.
+
+b) Plot the polynomial using matplotlib.
+
+c) Add a legend.
+
+d) Add axis labels.

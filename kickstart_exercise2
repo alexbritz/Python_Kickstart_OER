@@ -1,0 +1,15 @@
+Create a new iPython Notebook (=Jupyter Notebook) and perform the following tasks:
+ 
+a) Control Structures
+i) Create two variables and assign string values to them. One string should be shorter than 10 characters, and the other should be longer.
+ii) Write a control structure that checks whether each string is shorter than or equal to 10 characters or longer. The output should be a statement like:
+"The string is longer than 10 characters"
+"The string is up to 10 characters long"
+iii) Modify the control structure so that the printed statement includes the actual string, like:
+"The string '[your string]' is longer than 10 characters"
+"The string '[your string]' is up to 10 characters long"
+
+b) Functions
+i) Write a function that calculates and returns the value of a third-order polynomial: ax^3+ bx^2 + cx + d.. Choose coefficients a,b,c,d test the function with a value for x.
+ii) Make the polynomial function more general. Write another version of the function that takes both x x and the coefficients a, b, c, d as input arguments.
+iii) Transform the control structure code from part (a) into a function. The function should take a string as input and print the corresponding statement about its length.

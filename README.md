@@ -2,7 +2,7 @@
 Python Kickstart Online Course Material © 2026 by Dr. Alexander Britz is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Description
-This course was designed by Dr. Alexander Britz (hereafter named AB, email address mail@alexbritz.de) in 2024. After first tests and integrations in several course format, the course content is made available in collaboration with ProRUWA and Uni Kassel as open educational resource under a License CC BY-SA 4.0.
+This course was designed by Dr. Alexander Britz (hereafter named AB, email address mail@alexbritz.de) in 2024. After first tests and integrations in several course format, the course content is made available in collaboration with with the German Academic-Exchange (DAAD)-funded capacity building and research network Pro-RUWA at University of Kassel as open educational resource under a License CC BY-SA 4.0.
 
 ## Materials Available
 
@@ -56,4 +56,4 @@ Course lecture scripts and exercises were designed by Alexander Britz (AB) with 
 
 Multiple choice questions were - as a first draft  - generated with ChatGPT using the lecture scripts as a source. The multiple choice questions were tested and modified by AB.
 
-Funding acknowledgment: This project was received funding from ProRUWA at Uni Kassel and Alexander Britz.
+Funding acknowledgment: This project received funding through the DAAD-funded capacity building and research network Pro-RUWA (ID 57824054) at University of Kassel and Dr. Alexander Britz.

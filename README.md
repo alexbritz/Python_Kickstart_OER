@@ -51,9 +51,9 @@ https://alexbritz.de/wp-content/uploads/2024/11/Kickstart_Python_4.mp4
 - 10 Multiple Choice Questions
 
 
-Disclaimer of GenAI Usage: 
-Course lecture scripts and exercises were designed by Alexander Britz (AB) with occasional use of Perplexity, ChatGPT and Claude for brainstorming.
+## Disclaimer and Acknowledgements
 
+GenAI Usage: Course lecture scripts and exercises were designed by Alexander Britz (AB) with occasional use of Perplexity, ChatGPT and Claude for brainstorming.
 Multiple choice questions were - as a first draft  - generated with ChatGPT using the lecture scripts as a source. The multiple choice questions were tested and modified by AB.
 
 Funding acknowledgment: This project received funding through the DAAD-funded capacity building and research network Pro-RUWA (ID 57824054) at University of Kassel and Dr. Alexander Britz.
